@@ -4,8 +4,6 @@
 主催：内閣府認定 公益財団法人 こども教育支援財団「先生の学校」
 講師：前多昌顕（青森県五所川原市立五所川原小学校）／モデレーター：二川佳祐
 
-Gemini・Gemini Notebookを使って、1単元の授業デザインを実際に手を動かしながら創り上げます。
-
 - 指導要領PDFの読み込みと授業プラン生成
 - 評価基準（ルーブリック）作成
 - 前半の指導案をAI指示文に活用
@@ -23,6 +21,7 @@ Gemini・Gemini Notebookを使って、1単元の授業デザインを実際に�
 - <a href="https://notebooklm.google.com/" target="_blank">Gemini Notebook</a>
 - <a href="https://script.google.com/macros/s/AKfycbx9ckesaH03gAdnhxVDtIAZHbSB_7l2RPGNuJ2EQ6AgahELB9wsu03nAboq8yFrEnSgNw/exec" target="_blank">スーパー記録くん</a>
 - <a href="https://studio.workspace.google.com/" target="_blank">Google Workspace Studio</a>
+- <a href="https://script.google.com/macros/s/AKfycbyiV2IEOdW90UFjD3J4MM6XR8FZfJU65Q877ry_xmv8FDhiLVnKMU7STT_kIicQEMQxMQ/exec" target="_blank">アカウント貸与ページ</a>
 
 
 ### 2. 資料・リソース
@@ -30,7 +29,9 @@ Gemini・Gemini Notebookを使って、1単元の授業デザインを実際に�
 #### 📄 研修共通資料・リンク
 -  <a href="https://www.mext.go.jp/a_menu/shotou/new-cs/1387014.htm" target="_blank">小学校学習指導要領</a>
 -  <a href="https://www.mext.go.jp/a_menu/shotou/new-cs/1387016.htm" target="_blank">中学校学習指導要領</a>
+-  <a href="https://www.mext.go.jp/a_menu/shotou/seitoshidou/1404008_00001.htm" target="_blank">生徒指導提要</a>
 -  <a href="https://docs.google.com/document/d/1mCnWumizHGcCY5EIYgMHwa-EptVDhL3FtnKrNJGs9NM/edit?usp=sharing" target="_blank">プロンプト等</a>
+-  <a href="https://docs.google.com/document/d/156iIMF5XUiledLLkdtpFPN7T6wpj6dA0xwd6NGbsN_0/edit?usp=sharing" target="_blank">本日の要約ファイル</a>
 -  <a href="https://www.amazon.co.jp/stores/%E5%89%8D%E5%A4%9A-%E6%98%8C%E9%A1%95/author/B09RGNX3XZ?ref=sr_ntt_srch_lnk_1&qid=1783488335&sr=8-1&shoppingPortalEnabled=true" target="_blank">前多昌顕の著書一覧（Amazon著者ページ）</a>
 
 #### ✍️ 演習用テキスト資料
@@ -44,6 +45,8 @@ Gemini・Gemini Notebookを使って、1単元の授業デザインを実際に�
 -  <a href="./魁市立魁小学校_学校経営方針.html" target="_blank">魁市立魁小学校 学校経営方針（演習用・架空の資料）</a>　<small><a href="./魁市立魁小学校_学校経営方針.md" target="_blank">[Markdown原文]</a></small>
 -  <a href="./擬野流市の教育方針.html" target="_blank">擬野流市の教育方針（演習用・架空の資料）</a>　<small><a href="./擬野流市の教育方針.md" target="_blank">[Markdown原文]</a></small>
 -  <a href="./擬野流市立擬野流小学校_学校経営方針.html" target="_blank">擬野流市立擬野流小学校 学校経営方針（演習用・架空の資料）</a>　<small><a href="./擬野流市立擬野流小学校_学校経営方針.md" target="_blank">[Markdown原文]</a></small>
+-  <a href="./筋肉市の教育方針.html" target="_blank">筋肉市の教育方針（演習用・架空の資料）</a>　<small><a href="./筋肉市の教育方針.md" target="_blank">[Markdown原文]</a></small>
+-  <a href="./筋肉市立筋肉小学校_学校経営方針.html" target="_blank">筋肉市立筋肉小学校 学校経営方針（演習用・架空の資料）</a>　<small><a href="./筋肉市立筋肉小学校_学校経営方針.md" target="_blank">[Markdown原文]</a></small>
 
 #### 📺 解説動画
 
