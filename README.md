@@ -29,6 +29,7 @@
 #### 📄 研修共通資料・リンク
 -  <a href="https://www.mext.go.jp/a_menu/shotou/new-cs/1387014.htm" target="_blank">小学校学習指導要領</a>
 -  <a href="https://www.mext.go.jp/a_menu/shotou/new-cs/1387016.htm" target="_blank">中学校学習指導要領</a>
+-  <a href="https://www.mext.go.jp/a_menu/shotou/new-cs/1407074.htm" target="_blank">高等学校学習指導要領</a>
 -  <a href="https://www.mext.go.jp/a_menu/shotou/seitoshidou/1404008_00001.htm" target="_blank">生徒指導提要</a>
 -  <a href="https://docs.google.com/document/d/1mCnWumizHGcCY5EIYgMHwa-EptVDhL3FtnKrNJGs9NM/edit?usp=sharing" target="_blank">プロンプト等</a>
 -  <a href="https://docs.google.com/document/d/156iIMF5XUiledLLkdtpFPN7T6wpj6dA0xwd6NGbsN_0/edit?usp=sharing" target="_blank">本日の要約ファイル</a>
